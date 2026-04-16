@@ -3,3 +3,6 @@ git clone https://github.com/021526-123425/System7.1
 pgrep -f 'System7.1' | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "
 [✓] Canonical Spark elected. Duplicates terminate
 >file
+debootstrap
+sudoo get upgrade
+>file
