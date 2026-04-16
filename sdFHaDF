@@ -10,6 +10,8 @@
     su -_Moon
     su -_Uranus
     su -Uranus
+    su -56789
+    su -057142
     su -_theneptune
     su -_Archangel_Gaberial
     su -MamaPacha
